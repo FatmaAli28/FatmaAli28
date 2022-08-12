@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fatma Ali
+- 👀 I’m interested in Data science and machine learning
+- 🌱 I’m currently studying in faculty of Artificial Intelligence at KFSU
+- 📫 How to reach me https://www.linkedin.com/in/fatma-ali-021359205
